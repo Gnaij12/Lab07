@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/firstFrag"
+            android:icon="@drawable/carby"
+            android:title="Carby"/>
+        <item
+            android:id="@+id/secondFrag"
+            android:icon="@drawable/curby"
+            android:title="Curby"/>
+        <item
+            android:id="@+id/thirdFrag"
+            android:icon="@drawable/beeg_kirby"
+            android:title="Beeg Kirby"/>
+        <item
+            android:id="@+id/fourthFrag"
+            android:icon="@drawable/kirby_road"
+            android:title="Kirby Road"/>
+        <item
+            android:id="@+id/fifthFrag"
+            android:icon="@drawable/kirby_background"
+            android:title="Kirby Background"/>
+        <item
+            android:id="@+id/sixthFrag"
+            android:icon="@drawable/kirby_costume"
+            android:title="Kirby Costume"/>
+        <item
+            android:id="@+id/seventhFrag"
+            android:icon="@drawable/kirby_real_face"
+            android:title="Kirby With a Real Face"/>
+
+
+    </group>
+</menu>

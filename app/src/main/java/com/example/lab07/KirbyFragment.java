@@ -4,9 +4,9 @@ import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
 
-public class KirbyFragment extends Fragment {
+public class KirbyFragment extends androidx.fragment.app.Fragment {
     int[] images = new int[]{R.drawable.carby, R.drawable.curby,
-            R.drawable.beegKirby, R.drawable.KirbyRoadSmall,R.drawable.kirbyBackground,R.drawable.kirbyCostume,R.drawable.kirbyRealFace};
+            R.drawable.beeg_kirby, R.drawable.kirby_road,R.drawable.kirby_background,R.drawable.kirby_costume,R.drawable.kirby_real_face};
     int iKirby;
     public static KirbyFragment newInstance(int iKirby) {
         KirbyFragment kirbyFrag = new KirbyFragment();

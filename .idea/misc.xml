@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/layout/drawer_view.xml" value="0.24375" />
+        <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/layout/nav_header.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/layout/toolbar.xml" value="0.24375" />
+        <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/menu/drawer_view.xml" value="0.24375" />
       </map>
     </option>
   </component>

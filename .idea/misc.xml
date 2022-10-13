@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2635416666666667" />
         <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/layout/drawer_view.xml" value="0.24375" />
+        <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/layout/kirby_fragment.xml" value="0.24739583333333334" />
         <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/layout/nav_header.xml" value="0.24739583333333334" />
         <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/layout/toolbar.xml" value="0.24375" />
-        <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/menu/drawer_view.xml" value="0.24375" />
+        <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/menu/drawer_view.xml" value="0.15" />
+        <entry key="..\:/Users/1532269/Documents/AndriodStudioProjects/Lab07/app/src/main/res/mipmap-anydpi-v26/beeg_kirby_icon.xml" value="0.2635416666666667" />
       </map>
     </option>
   </component>
